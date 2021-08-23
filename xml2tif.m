@@ -1,4 +1,4 @@
-%Convert contours in xml file into an image
+%% Convert contours in xml file into an image
 % [merge_output,merge_labels] = xml2tif(fname_EM,fname_xml)
 %
 % Inputs:
